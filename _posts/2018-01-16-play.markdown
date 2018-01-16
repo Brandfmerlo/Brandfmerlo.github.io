@@ -1,1 +1,1 @@
-d
+---2layout: post3title:  "Read Me"4categories: Other5tags: Other6author: Xixia7description: The read me page of jekyll-xixia.8---910Jekyll Xixia11============1213* Get it from [github](https://github.com/zxixia/jekyll-xixia).14* See the [live demo](http://xixia.info/jekyll-xixia/).15* See it [in action on my own blog](http://xixia.info/).1617A simple and clean Jekyll theme using [bootstrap](http://getbootstrap.com)18(not t
