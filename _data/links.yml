@@ -1,2 +1,4 @@
-- url: "http://www.jaylee.kr"
-  title: "Jaylee"
+- url: "http://www.jaylee.kr" 
+  title: "Jaylee.kr"
+- url: "https://stackoverflow.com/users/9215366/jaylee?tab=profile" 
+  title: "StackOverflow profile"
